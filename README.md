@@ -54,6 +54,11 @@ A new binary target column, `pass_fail`, is created based on the sum of math, re
 
 4. Check the updated dataset in the file `StudentsPerformance_updated.csv`.
 
+## Additional Notes
+
+- **CSV File Path:**
+  - Ensure that the CSV file path in `file_path` is correct.
+
 ## Necessities
 
 - Python 3.x
